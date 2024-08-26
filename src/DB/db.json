@@ -1,0 +1,217 @@
+{
+  "users": [
+    {
+      "name": "mahmoud",
+      "email": "gamel@gamil.com",
+      "pass": "555555",
+      "id": 1
+    },
+    {
+      "name": "Ahmed mohamed abdelrahman ",
+      "email": "mohamed@gamil.com",
+      "pass": "22222222222222",
+      "id": 2
+    },
+    {
+      "name": "mohamed safwat",
+      "email": "mohamed@gamil.com",
+      "pass": "4444477777",
+      "id": 3
+    },
+    {
+      "name": "mohamed safwat abdelgaber",
+      "email": "011435781.z@gamil.com",
+      "pass": "222333666",
+      "id": 4
+    },
+    {
+      "name": "Salah Bedeiwi",
+      "email": "22@22.com",
+      "pass": "2222222222",
+      "id": 5
+    },
+    {
+      "name": "mostafa safwat abdelgaber",
+      "email": "011435781.z@gamil.com",
+      "pass": "2222555555",
+      "id": 6
+    },
+    {
+      "name": "ahmed safwat abdelgaber",
+      "email": "moa@gamil.com",
+      "pass": "11111222",
+      "id": 7
+    }
+  ],
+  "locations": [
+    {
+      "name": "fashnwaystore",
+      "phone": "5555554444",
+      "address": "حولى تونس الكويت",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "name": "hwalyhunes",
+      "phone": "5555554444",
+      "address": "يان قطعه 2 شارع 5\"",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "bayan store",
+      "phone": "01143578153",
+      "address": "حوالى شارع تونس",
+      "userId": 5,
+      "id": 4
+    },
+    {
+      "name": "fashnwaystore",
+      "phone": "78925132589",
+      "address": "يان قطعه 2 شارع 5\"",
+      "userId": 1,
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "name": "Dinners3",
+      "userId": 3,
+      "locationId": 2,
+      "id": 2
+    },
+    {
+      "name": "hello mohamed\\",
+      "userId": 1,
+      "locationId": 3,
+      "id": 3
+    },
+    {
+      "name": "omar",
+      "userId": 1,
+      "locationId": 3,
+      "id": 4
+    },
+    {
+      "name": "omar",
+      "userId": 5,
+      "locationId": 4,
+      "id": 5
+    }
+  ],
+  "items": [
+    {
+      "name": "zingersuprem",
+      "price": "2222.00",
+      "description": "zzzzzzzzz",
+      "qty": 1,
+      "userId": 1,
+      "locId": 3,
+      "catId": 3,
+      "id": 1
+    },
+    {
+      "name": "checkinfilet",
+      "price": "100.00",
+      "description": "chhhhhhhhhhh",
+      "qty": 1,
+      "locId": 3,
+      "catId": 3,
+      "id": 2
+    },
+    {
+      "name": "checkinfilet suprem",
+      "price": "142.00",
+      "description": "aaaaaaaaaa",
+      "qty": 1,
+      "locId": 3,
+      "catId": 3,
+      "id": 3
+    },
+    {
+      "name": "checkinfilet",
+      "price": "145.00",
+      "description": "chhhhhhhhhh",
+      "qty": 2,
+      "locId": 3,
+      "catId": 3,
+      "id": 4
+    },
+    {
+      "name": "checkinfilet",
+      "price": "200.00",
+      "description": "ccccccccccccc",
+      "qty": 2,
+      "locId": 3,
+      "catId": 3,
+      "id": 5
+    },
+    {
+      "name": "checkinfilet",
+      "price": "4.00",
+      "description": "aaaaaaaaaaaaaaa",
+      "qty": 2,
+      "locId": 3,
+      "catId": 3,
+      "id": 6
+    },
+    {
+      "name": "checkinfilet",
+      "price": "111.00",
+      "description": "maaaaa",
+      "qty": 1,
+      "locId": 3,
+      "catId": 3,
+      "id": 7
+    },
+    {
+      "name": "checkinfilet",
+      "price": "2222.00",
+      "description": "sssssssssa",
+      "qty": 1,
+      "locId": 3,
+      "catId": 4,
+      "id": 8
+    },
+    {
+      "name": "zingersuprem",
+      "price": "1111.00",
+      "description": "aaaaaaa",
+      "qty": 2,
+      "userId": 5,
+      "locId": 4,
+      "catId": 5,
+      "id": 9
+    },
+    {
+      "name": "checkinfilet",
+      "price": "222.00",
+      "description": "aaaaaaaaaaaa",
+      "qty": 2,
+      "userId": 5,
+      "locId": 4,
+      "catId": 5,
+      "id": 10
+    },
+    {
+      "name": "checkinfilet",
+      "price": "1000.00",
+      "description": "ccccccccc",
+      "qty": 2,
+      "userId": 1,
+      "locId": 3,
+      "catId": 4,
+      "id": 11
+    },
+    {
+      "name": "checkinfilet",
+      "price": "222.00",
+      "description": "bbbbbbbbbbb",
+      "qty": 1,
+      "userId": 1,
+      "locId": 3,
+      "catId": 3,
+      "id": 12
+    }
+  ]
+}

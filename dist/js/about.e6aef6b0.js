@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkres_sys_2025"]=self["webpackChunkres_sys_2025"]||[]).push([[594],{1512:function(s,n,e){e.r(n),e.d(n,{default:function(){return l}});var u=e(6768);const r={class:"about"},t=(0,u.Lk)("h1",null,"This is an about page",-1),a=[t];function c(s,n,e,t,c,i){return(0,u.uX)(),(0,u.CE)("div",r,a)}var i={name:"AboutView"},o=e(1241);const f=(0,o.A)(i,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.e6aef6b0.js.map
